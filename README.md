@@ -1,0 +1,1 @@
+Smart Resume Builder (Android, Java) – Developed an Android app that generates professional resume PDFs from user input, using Java, custom PDF rendering (PdfDocument), FileProvider, and app-specific storage. Implemented sections for education, skills, projects, and achievements, with automatic text wrapping and one-tap PDF viewing.
